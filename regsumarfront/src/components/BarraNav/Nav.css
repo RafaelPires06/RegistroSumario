@@ -1,0 +1,65 @@
+.nav {
+    margin: 1rem auto;
+    border: 3px solid #085394;
+    width: 90%;
+    max-width: 46rem;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 3rem;
+    border-radius: 5px 5px 20px 30px;
+}
+
+section {
+    margin: 1rem auto;
+    border: 3px solid #085394;
+    width: 90%;
+    max-width: 46rem;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 3rem;
+    border-radius: 5px 5px 20px 30px;
+}
+
+.links {
+    margin: 1rem auto;
+    width: 90%;
+    max-width: 40rem;
+    text-align: center;
+    background-color: rgb(122, 121, 121);
+    padding: 2rem;
+    border-radius: 5px 5px 20px 30px;
+}
+
+.buttons {
+    float: right;
+    text-decoration: none;
+    margin-top: -15px;
+}
+
+.buttons li {
+    display: inline-block;
+    margin-right: 5px;
+    cursor: pointer;
+    font: inherit;
+    border: 3px solid #085394;
+    vertical-align: middle;
+    color: #085394;
+    padding: 0.25rem 1.0rem;
+    text-decoration: none;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.link:hover,
+.link:active {
+    transition: 0.2s;
+    color: #00008B;
+}
+
+.logImg {
+    /* background-image: url("/public/imageFolder/logo1.png"); */
+    /* height: 50px; */
+    /* vertical-align: middle; */
+    margin-top: -25px;
+    float: left;
+    margin-right: 60px;
+}

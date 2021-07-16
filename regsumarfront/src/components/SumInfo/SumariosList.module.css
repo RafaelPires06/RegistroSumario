@@ -1,0 +1,11 @@
+.sumario-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.buttonDel {
+    border: 3px solid #085394;
+    border-radius: 40px 40px 40px 40px;
+    color: #085394;
+}

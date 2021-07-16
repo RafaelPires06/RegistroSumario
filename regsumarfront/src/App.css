@@ -1,0 +1,57 @@
+/* header {
+    background-color: #ffffff;
+    display: block;
+    position: relative;
+    top: 0;
+}
+
+.logo {
+    display: inline-block;
+    max-height: 56px;
+    max-width: 225px;
+    padding: 8px 4px 8px 12px;
+    vertical-align: middle;
+}
+
+.back {
+    margin: 0rem auto;
+    width: 100%;
+    max-width: 100rem;
+    text-align: center;
+    background-color: rgb(198, 218, 252);
+    padding: 1rem;
+    border-radius: 5px 5px 20px 30px;
+} */
+
+
+/* 
+section {
+    margin: 1rem auto;
+    width: 90%;
+    max-width: 40rem;
+    text-align: center;
+    background-color: rgb(122, 121, 121);
+    padding: 2rem;
+    border-radius: 5px 5px 20px 30px;
+} */
+
+button {
+    font: inherit;
+    cursor: pointer;
+    color: #fff;
+    border: 3px solid #085394;
+    border-radius: 10px 10px 10px 10px;
+    background: #085394;
+    vertical-align: middle;
+    padding: 0.25rem 1.5rem;
+}
+
+button:focus {
+    outline: none;
+}
+
+button:hover,
+button:active {
+    transition: 0.2s;
+    color: #00008B;
+}

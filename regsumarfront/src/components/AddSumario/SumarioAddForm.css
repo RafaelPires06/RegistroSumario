@@ -1,0 +1,46 @@
+.new-sumario__controls {
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.new-sumario__control label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.new-sumario__control input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #085394;
+    color: #085394;
+    width: 20rem;
+    max-width: 100%;
+}
+
+.large_select {
+    border-radius: 6px;
+    height: 40px;
+    width: 100%;
+    border: 1px solid #085394;
+    color: #085394;
+}
+
+.new-sumario_SUM {
+    font: inherit;
+    width: 600px;
+    height: 80px;
+    border-radius: 6px;
+    border: 1px solid #085394;
+    color: #085394;
+}
+
+.new-sumario__actions {
+    text-align: right;
+    background-color: #fff;
+}

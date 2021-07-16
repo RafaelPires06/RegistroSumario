@@ -1,0 +1,43 @@
+.new-sumario {
+    background-color: #fff;
+    border-radius: 40px 40px 40px 40px;
+    border: 3px solid #085394;
+    color: #085394;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 90%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(194, 193, 193, 0.25);
+}
+
+.new-sumario button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #085394;
+    background-color: #fff;
+    color: #085394;
+    border-radius: 12px;
+    margin-right: 1rem;
+}
+
+.new-sumario button:hover,
+.new-sumario button:active {
+    background-color: #085394;
+    border-color: #085394;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.new-sumario button.alternative {
+    color: #220131;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.new-sumario button.alternative:hover,
+.new-sumario button.alternative:active {
+    background-color: #ddb3f8;
+}

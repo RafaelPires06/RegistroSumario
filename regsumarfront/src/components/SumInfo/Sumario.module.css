@@ -1,0 +1,22 @@
+.sumario {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #fff;
+    border: 3px solid #085394;
+    border-radius: 40px 40px 40px 40px;
+    border-radius: 12px;
+    text-align: center;
+    color: #085394;
+}
+
+.sumario h3 {
+    font-size: 2rem;
+    box-shadow: 18px rgba(218, 160, 160, 0.26);
+    color: #ffffff;
+}
+
+.sumario h3 {
+    color: #fffcd2;
+    margin: 0;
+    font-size: 1rem;
+}
